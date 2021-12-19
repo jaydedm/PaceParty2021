@@ -58,9 +58,6 @@ export let meta: MetaFunction = () => {
 };
 
 export function PaceParty() {
-  const [loaded, setLoaded] = useState(false);
-  console.log("loaded:", loaded);
-
   return (
     <>
       <div>
@@ -84,11 +81,6 @@ export function PaceParty() {
         className="welcome"
         style={{ textAlign: "center", marginTop: "-2rem" }}
       >
-        <img
-          style={{ width: "50%", marginTop: "10%" }}
-          src={wanted}
-          onLoad={() => setLoaded(true)}
-        ></img>
         <p>
           <span style={{ color: "red" }}>Date:</span> <br></br>Saturday, January
           1{" "}
