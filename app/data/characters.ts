@@ -268,7 +268,7 @@ const characters: Character[] = [
       "MALE:  Old west style 3-piece suite.  Fake guns and pinkertoon badge.",
   },
   {
-    actor: "McKhy",
+    actor: "Makhy",
     character: "LEVI SIMON",
     role: "PINKERTOON DETECTIVE",
     suspectBio:
