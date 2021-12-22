@@ -104,7 +104,7 @@ const characters: Character[] = [
     character: "CALAMITY JANIE",
     role: "U.S. Army Scout",
     suspectBio:
-      "The tall tale telling Calamity Janie is a force to be reckoned with!  Former Great Plains cattle herder turned U.S. scout;  this rugged lady used to be a trick shooter in Bronco Bill’s traveling Wild Western Show.  This a gal you should never double cross, as she’s not called Calamity Janie for nothing.",
+      "The tall tale telling Calamity Janie is a force to be reckoned with!  Former Great Plains cattle herder turned U.S. scout;  this rugged lady used to be a trick shooter in Bronco Bill’s traveling Wild Western Show.  This is a gal you should never double cross, as she’s not called Calamity Janie for nothing.",
     costumeSuggestions:
       "Brown duster coat with a vest, a holster and a cowboy hat/boots.  Fake guns.",
   },
