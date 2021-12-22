@@ -1,8 +1,6 @@
-import { useState } from "react";
 import type { LoaderFunction, MetaFunction } from "remix";
-import { json, useLoaderData } from "remix";
+import { json } from "remix";
 import paceParty from "../assets/paceparty.png";
-import wanted from "../assets/wanted.png";
 
 type IndexData = {
   resources: Array<{ name: string; url: string }>;
@@ -88,9 +86,9 @@ export function PaceParty() {
           }}
           src="https://www.youtube.com/embed/20upmlUj7es"
           title="YouTube video player"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
+          allowFullScreen
         ></iframe>
       </div>
       <div

@@ -10,7 +10,7 @@ const characters: Character[] = [
   {
     actor: "Ginger",
     character: "RECKLESS SALLY HOLLADAY",
-    role: "Game Master",
+    role: "Game Master - Horse Breeder",
   },
   {
     actor: "Dean",
@@ -20,7 +20,7 @@ const characters: Character[] = [
   {
     actor: "Bryant",
     character: "WHITE WILLOW WEEDA",
-    role: "Game Master",
+    role: "Game Master - Banker",
   },
   {
     actor: "Jayde",
