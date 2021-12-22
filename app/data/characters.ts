@@ -68,7 +68,7 @@ const characters: Character[] = [
     character: "DOC GALADAY",
     role: "Doctor",
     suspectBio:
-      "Doc GALADAY is Wylie Arp’s right-hand man.  Doc rides the fence on both sides of the law.  His reputation has made him a terror in the hearts of the lawless.  Doc is a physician by trade, but his tuberculosis has drastically reduced his number of patients.  He often supplements his income with gambling.",
+      "Doc Galaday is Wylie Arp’s right-hand man.  Doc rides the fence on both sides of the law.  His reputation has made him a terror in the hearts of the lawless.  Doc is a physician by trade, but his tuberculosis has drastically reduced his number of patients.  He often supplements his income with gambling.",
     costumeSuggestions:
       "Black duster coat with a vest, a holster, and a cowboy hat/boots.  A (gunslinger) handlebar mustache.",
   },
@@ -339,7 +339,7 @@ const characters: Character[] = [
     character: "STELLA NIGHTENGALE",
     role: "Traveling Entertainer",
     suspectBio:
-      "A performer with the nomadic brigade of entertainers called the Bronco Bill’s Traveling Wild Western Show.  Your group of 5 does everything from singing and dancing to short skits to entertain the audience between the “main acts”.",
+      "A performer with the nomadic brigade of entertainers called the Bronco Bill’s Traveling Wild Western Show.  Your group of 4 does everything from singing and dancing to short skits to entertain the audience between the “main acts”.",
     costumeSuggestions: "",
   },
   {
