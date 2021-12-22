@@ -114,6 +114,9 @@ export function PaceParty() {
           </a>
         </p>
         <p>
+          <h2 style={{ textDecoration: "underline", color: "red" }}>
+            More Details
+          </h2>
           A $20 "Cover Charge" per family, unless you have been specifically
           told otherwise, would be greatly appreciated.
           <p> Arrive in costume and in character.</p>
