@@ -118,7 +118,7 @@ const characters: Character[] = [
       "Brown duster coat with a vest, a holster and a cowboy hat/boots.  A (gunslinger) handlebar mustache.",
   },
   {
-    actor: "Kelsey",
+    actor: "Paisley",
     character: "POSEY BASSETT",
     role: "Girlfriend of Hutch Cassaday",
     suspectBio:
@@ -127,7 +127,7 @@ const characters: Character[] = [
       "Gunslinger costume with cowboy boots.  Fake guns and a cowboy hat.",
   },
   {
-    actor: "Josh",
+    actor: "Lucas",
     character: "HUTCH CASSADAY",
     role: "Leader of the Rowdy Bunch",
     suspectBio:
@@ -163,7 +163,7 @@ const characters: Character[] = [
       "Saloon dress or lucille walking suit - or anything trendy for the late 1800’s.  Amelia boots and a fake gun.",
   },
   {
-    actor: "Lucas",
+    actor: "Caleb",
     character: "DOM HORN",
     role: "Detective, Pinkertoon Agency",
     suspectBio:
@@ -258,15 +258,15 @@ const characters: Character[] = [
     costumeSuggestions:
       "Wild west cowgirl attire.  Cute cowboy hat and glitzy cowboy boots.  Playing cards in your pockets.",
   },
-  {
-    actor: "Caleb",
-    character: "SEAN MCGUIRE",
-    role: "PINKERTOON DETECTIVE",
-    suspectBio:
-      "The Pinkertoons are a private U.S. Security Guard and Detective Agency that provides security guards, military contract work, bounty hunting, and private investigation services.  Currently, there are more agents in the Pinkerton Agency than there are in the standing army of the U.S.!",
-    costumeSuggestions:
-      "MALE:  Old west style 3-piece suite.  Fake guns and pinkertoon badge.",
-  },
+  // {
+  //   actor: "Caleb",
+  //   character: "SEAN MCGUIRE",
+  //   role: "PINKERTOON DETECTIVE",
+  //   suspectBio:
+  //     "The Pinkertoons are a private U.S. Security Guard and Detective Agency that provides security guards, military contract work, bounty hunting, and private investigation services.  Currently, there are more agents in the Pinkerton Agency than there are in the standing army of the U.S.!",
+  //   costumeSuggestions:
+  //     "MALE:  Old west style 3-piece suite.  Fake guns and pinkertoon badge.",
+  // },
   {
     actor: "Makhy",
     character: "LEVI SIMON",
@@ -318,14 +318,14 @@ const characters: Character[] = [
       "Sir McDermot has a hard nosed team of loyal fur traders that travel with him across the land in search of new trapping grounds and Native American tribes to increase their fur trade markets.",
     costumeSuggestions: "Buckskin/faux leather with faux fur pelts",
   },
-  {
-    actor: "Paisley",
-    character: "RUBY BARLOW",
-    role: "Traveling Entertainer",
-    suspectBio:
-      "A performer with the nomadic brigade of entertainers called the Bronco Bill’s Traveling Wild Western Show.  Your group of 5 does everything from singing and dancing to short skits to entertain the audience between the “main acts”.",
-    costumeSuggestions: "",
-  },
+  // {
+  //   actor: "Paisley",
+  //   character: "RUBY BARLOW",
+  //   role: "Traveling Entertainer",
+  //   suspectBio:
+  //     "A performer with the nomadic brigade of entertainers called the Bronco Bill’s Traveling Wild Western Show.  Your group of 5 does everything from singing and dancing to short skits to entertain the audience between the “main acts”.",
+  //   costumeSuggestions: "",
+  // },
   {
     actor: "Nellie",
     character: "GERTIE SPIRE",

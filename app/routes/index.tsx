@@ -77,6 +77,22 @@ export function PaceParty() {
       >
         Welcome
       </div>
+      <div id="iframeContainer">
+        <iframe
+          style={{
+            width: "65vw",
+            height: "20vh",
+            margin: "auto",
+            display: "block",
+            marginBottom: "4rem",
+          }}
+          src="https://www.youtube.com/embed/20upmlUj7es"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
       <div
         className="welcome"
         style={{ textAlign: "center", marginTop: "-2rem" }}
@@ -96,6 +112,16 @@ export function PaceParty() {
               Gravestone Saloon
             </a>
           </a>
+        </p>
+        <p>
+          A $20 "Cover Charge" per family, unless you have been specifically
+          told otherwise, would be greatly appreciated.
+          <p> Arrive in costume and in character.</p>
+          <p>
+            Bring a pouch or something you can use to hold coins (large pockets
+            work too).
+          </p>{" "}
+          Further explanation for the evening will be given when you arrive.
         </p>
       </div>
     </>
