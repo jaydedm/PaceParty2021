@@ -36,6 +36,11 @@ export default function PostSlug() {
         <em>Costume Suggestion:</em> <br />
         {character.costumeSuggestions}
       </div>
+      <br />
+      <div>
+        <em>Contact Number:</em> <br />
+        {character.number}
+      </div>
     </div>
   );
 }
